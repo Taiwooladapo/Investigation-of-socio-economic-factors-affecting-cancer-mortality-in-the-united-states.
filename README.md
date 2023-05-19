@@ -1,1 +1,1 @@
-# Investigation-of-socio-economic-factors-affecting-cancer-mortality-in-the-united-states.
+# Investigation-of-socio-economic-factors-influencing-cancer-mortality-in-the-united-states.
