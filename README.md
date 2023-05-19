@@ -9,5 +9,5 @@ This project was conducted during my postgraduate degree to develop a robust mul
 6. Built the models using a stepwise regression approach.
 7. Identified the second model as the most suitable one, which included an estimation of each predictor variable's coefficient, statistical tests of significance, measures of model fit, and diagnostic plots to evaluate the model's performance and underlying assumptions.
 # Tools Used
-1. Jupyter Notebok
+1. Jupyter Notebook
 2. R programming language
