@@ -1,5 +1,5 @@
 # Investigation-of-socio-economic-factors-influencing-cancer-mortality-in-the-united-states
-This project was conducted during my postgraduate degree to develop a robust multiple linear regression model for predicting county-level cancer-related death rates. By utilizing demographic data and the incidence rate of cancer for each county, various regression models were explored to identify the most suitable one.
+This project was conducted to develop a robust multiple linear regression model for predicting county-level cancer-related death rates. By utilizing demographic data and the incidence rate of cancer for each county, various regression models were explored to identify the most suitable one.
 # Workflow Process
 1. Data Collection: Utilized a cancer CSV dataset containing data from over 3000 US counties. The parameters include County, population, death rate, incidence rate etc.
 2. Exploratory Data Analysis: Performed exploratory data analysis on the dataset to understand its structure, patterns, and distributions. This step helps in identifying initial trends and insights.
